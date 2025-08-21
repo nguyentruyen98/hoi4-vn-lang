@@ -1,0 +1,351 @@
+bitmapfonts = {
+
+	bitmapfont_override = { #Unknown							###(210508) Checking
+		name = "ToolTip_Font"
+		fontfiles = { 
+			"gfx/fonts/Arial_14"	
+		}
+	languages = { "l_english" } 
+	}	
+	
+	bitmapfont_override = { #Unknown							###(210508) Checking
+		name = "mapfont_small"
+		fontfiles = { 
+			"gfx/fonts/Arial_20"	
+		}
+	languages = { "l_english" } 
+	}	
+		
+	bitmapfont_override = { #Unknown							###(210508) Checking		
+		name = "AnimatedMapText"
+		fontfiles = { 
+			"gfx/fonts/cg_16b"	
+		}
+	languages = { "l_english" } 
+	}		
+	
+	bitmapfont_override = { #Unknown							###(210508) Re-Checking
+		name = "Main_24"
+		fontfiles = { 
+			"gfx/fonts/Main_24"	
+		}
+	languages = { "l_english" }
+	}
+	
+	bitmapfont_override = { #Unknown							###(210508) Checking
+		name = "messagelog"
+		fontfiles = { 
+			"gfx/fonts/Arial_14"	
+		}
+	languages = { "l_english" } 
+	}		
+		
+	bitmapfont_override = { #Unknown							###(210508) Checking
+		name = "Main_16"
+		fontfiles = { 
+			"gfx/fonts/cg_16b"	
+		}
+	languages = { "l_english" } 
+	}		
+	
+	bitmapfont_override = { #Font for Counting number of army and navy			###(210508) Checking
+		name = "Main_14"
+		fontfiles = { 
+			"gfx/fonts/Arial_14"	
+		}
+	languages = { "l_english" } 
+	}		
+	
+	bitmapfont_override = { #Unknown							###(210508) Checking
+		name = "Main_14_black"
+		fontfiles = { 
+			"gfx/fonts/Arial12"	
+		}
+	languages = { "l_english" } 
+	}		
+	
+	bitmapfont_override = { #Unknown							###(210508) Checking
+		name = "Main_14_bold"
+		fontfiles = { 
+			"gfx/fonts/Main_14"	
+		}		
+	languages = { "l_english" } 
+	}		
+	
+	bitmapfont_override = { #Unknown							###(210508) Checking
+		name = "Main_14_eu"
+		fontfiles = { 
+			"gfx/fonts/Arial12"	
+		}
+	languages = { "l_english" } 
+	}		
+	
+	bitmapfont_override = { #Unknown							###(210508)
+		name = "vic_18"
+		fontfiles = { 
+			"gfx/fonts/vic_18"	
+		}
+	languages = { "l_english" } 
+	}		
+	
+	bitmapfont_override = { #Unknown							###(210508)
+		name = "vic_18s"
+		fontfiles = { 
+			"gfx/fonts/vic_18s"	
+		}
+	languages = { "l_english" } 
+	}		
+	
+	bitmapfont_override = { #Unknown							###(210508)
+		name = "vic_22"
+		fontfiles = { 
+			"gfx/fonts/vic_22"	
+		}
+	languages = { "l_english" } 
+	}
+			
+	bitmapfont_override = { #Unknown							###(210508)
+		name = "vic_36"
+		fontfiles = { 
+			"gfx/fonts/vic_36"		
+		}		
+	languages = { "l_english" } 
+	}		
+	
+	bitmapfont_override = { #Font for buttons and historical character name and description	###(210508)
+		name = "hoi_16mbs"
+		fontfiles = { 
+			"gfx/fonts/hoi_16mbs"
+		}		
+	languages = { "l_english" } 
+	}			
+	
+	bitmapfont_override = { #Font for army division and navy type ship name			###(210508) waiting font
+		name = "hoi_18"
+		fontfiles = { 
+			"gfx/fonts/hoi_18"	
+		}	
+	languages = { "l_english" } 
+	}			
+	
+	bitmapfont_override = { #Font for version of Hoi4 and Number of consumer factory	###(210508) waiting font
+		name = "hoi_18b"
+		fontfiles = { 
+			"gfx/fonts/hoi_18"		
+		}			
+	languages = { "l_english" } 
+	}			
+	
+	bitmapfont_override = { #Font for button on main page, topbar number and ship name/ multi player button	###(210508)
+		name = "hoi_18mbs"
+		fontfiles = { 
+			"gfx/fonts/hoi_18mbs"	
+		}	
+	languages = { "l_english" } 
+	}			
+	
+	bitmapfont_override = { #Font for countries name, title on main page and header of general's skill ###(210508)
+		name = "hoi_20b"
+		fontfiles = { 
+			"gfx/fonts/hoi_20b"	
+		}		
+	languages = { "l_english" } 
+	}		
+		
+	bitmapfont_override = { #Font for individual country description on country selection page	###(210508)
+		name = "hoi_20bs"
+		fontfiles = { 	
+			"gfx/fonts/hoi_20bs"	
+		}		
+	languages = { "l_english" } 
+	}		
+	
+	bitmapfont_override = { #Font for scenario description on main page, Intelligence	###(210508)
+		name = "hoi4_typewriter16"
+		fontfiles = { 	
+			"gfx/fonts/hoi4_16typewriter"	
+		}		
+	languages = { "l_english" } 
+	}			
+
+	bitmapfont_override = { #Font for tech value, unit's statistic value			###(210508)
+		name = "hoi4_typewriter16_inverted"
+		fontfiles = { 	
+			"gfx/fonts/hoi4_typewriter16_inverted"	
+		}		
+	languages = { "l_english" } 
+	}
+
+	bitmapfont_override = { #Font for title of scenario description, Unit statistic's title	###(210508)
+		name = "hoi4_typewriter22"
+		fontfiles = { 
+			"gfx/fonts/hoi4_22typewriter"	
+		}		
+	languages = { "l_english" } 
+	}	
+			
+	bitmapfont_override = { #Font for main page button					###(210508)
+		name = "hoi_24header"
+		fontfiles = { 	
+			"gfx/fonts/hoi_24header"	
+		}		
+	languages = { "l_english" } 
+	}			
+	
+	bitmapfont_override = { #Font for general's skill level, Start button			###(210508)
+		name = "hoi_30header"
+		fontfiles = { 
+			"gfx/fonts/hoi_30header"	
+		}		
+	languages = { "l_english" } 
+	}			
+	
+	bitmapfont_override = { #Font for policy header, province's name and tech year		###(210508)
+		name = "hoi_36header"
+		fontfiles = { 
+			"gfx/fonts/hoi_36header"	
+		}	
+	languages = { "l_english" } 
+	}	
+	
+	bitmapfont_override = { #Font for tech header						###(210508)
+		name = "hoi_22tech"
+		fontfiles = { 	
+			"gfx/fonts/hoi_22tech"	
+		}		
+	languages = { "l_english" } 
+	}	
+	
+	bitmapfont_override = { #Font for tech header						###(210508)
+		name = "hoi_33"
+		fontfiles = { 
+			"gfx/fonts/hoi_33"		
+		}		
+	languages = { "l_english" } 
+	}	
+	
+	bitmapfont_override = { #Unknown							###(210508)
+		name = "hoi_33w"
+		fontfiles = { 
+			"gfx/fonts/hoi_33"		
+		}		
+	languages = { "l_english" } 
+	}	
+	
+	bitmapfont_override = {
+		name = "hoi_arrow_font" #Font for offensive planner				###(210508)
+		fontfiles = { 
+			"gfx/fonts/hoi_arrow_font"	
+		}		
+	languages = { "l_english" } 
+	}	
+	
+	bitmapfont_override = { #Unknown							###(210508)
+		name = "Arial12"
+		fontfiles = { 
+			"gfx/fonts/Arial12"
+		}
+	languages = { "l_english" } 
+	}	
+	
+	bitmapfont_override = { #Unknown							###(210508)
+		name = "FPS_Font"
+		fontfiles = { 
+			"gfx/fonts/Arial12"
+		}
+	languages = { "l_english" } 
+	}	
+	
+	bitmapfont_override = { #Font for floating textbox					###(210508)
+		name = "cg_16b"
+		fontfiles = { 
+			"gfx/fonts/cg_16b"					
+		}			
+	languages = { "l_english" } 
+	}
+
+	bitmapfont_override = {									###(210508)
+		name = "loadscreen_header"
+		fontfiles = { 
+			"gfx/fonts/hoi_30header"
+###			"gfx/fonts/hoi_20bs"
+		}
+		color = 0xffffffff
+
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 222 86 70 }
+			Y = { 238 201 35 }
+			H = { 238 201 35 }
+			T = { 255 255 255 }		
+	languages = { "l_english" } 
+	}
+
+	bitmapfont_override = {									###(210508)
+		name = "loadscreen_tip"
+		fontfiles = { 
+###			"gfx/fonts/hoi_30header"
+###			"gfx/fonts/hoi_20bs"
+			"gfx/fonts/hoi_24header"
+		}		
+		cursor_offset = { 0 4 }
+		color = 0xffffffff
+
+
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 222 86 70 }
+			Y = { 238 201 35 }
+			H = { 238 201 35 }
+			T = { 255 255 255 }
+	languages = { "l_english" } 
+	}
+
+	bitmapfont_override = {		##COUNTRIES'S NAME IN MAIN MAP				###(210508)
+		name = "tahoma_60"
+		fontfiles = { 
+			"gfx/fonts/hoi_mapfont4"	
+		color = 0xffffffff
+	
+		textcolors = {
+			G = { 86 172 91 }
+			R = { 222 86 70 }
+			Y = { 238 201 35 }
+			H = { 238 203 35 }
+			T = { 255 255 255 }	
+		}			
+	}
+
+	bitmapfont_override = {									###(210508) Checking
+		name = "ledger"
+		fontfiles = { 
+			"gfx/fonts/Arial_14"
+		}
+	languages = { "l_english" } 
+	}
+		
+	bitmapfont_override = {									###(210508) Checking
+		name = "ledger_headline"	
+		fontfiles = { 
+			"gfx/fonts/cg_16b"
+		}
+	languages = { "l_english" } 
+	}
+
+	bitmapfont_override = {									###(210508) Checking
+		name = "garamond_12"
+		fontfiles = { 
+			"gfx/fonts/Arial12"
+		}
+	languages = { "l_english" } 
+	}
+	
+	bitmapfont_override = {									###(210508) Checking
+		name = "cw_3d_debug"
+		fontfiles = { 
+			"gfx/fonts/Arial12"
+		}
+	languages = { "l_english" } 
+	}
+
+}
