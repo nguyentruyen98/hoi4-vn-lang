@@ -54,10 +54,10 @@
  ARMY_LEDGER_ARMIES:1 "Divisions"
  ARMY_LEDGER_EQUIPMENT:0 "Stockpile"
  
- CIVILIAN_INTEL:0 "Civilian Intel"
- ARMY_INTEL:0 "Army Intel"
- NAVY_INTEL:0 "Navy Intel"
- AIR_INTEL:0 "Air Intel"
+ CIVILIAN_INTEL:0 "Tình báo Dân sự"
+ ARMY_INTEL:0 "Tình báo Lục quân"
+ NAVY_INTEL:0 "Tình báo Hải quân"
+ AIR_INTEL:0 "Tình báo Không quân"
  
  CURRENT_INTEL:0 "Current Intel: $AMOUNT|H.0%$"
  MIN_INTEL_REQUIRED_FOR_DOCTRINE_TYPE:0 "Required intel for displaying current doctrine selection: $MIN|H.0%$"
